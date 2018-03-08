@@ -1,0 +1,20 @@
+.post-template .post-header,
+.page-template .post-header {
+    margin-bottom: 3.4rem;
+}
+.post-title {
+  color: dimgrey;
+    font-family: "Coolvetica", sans-serif;
+        letter-spacing: 0.15rem;
+
+}
+/* ==========================================================================
+       Media Queries - Smaller than 500px
+   ========================================================================== */
+
+@media only screen and (max-width: 500px) {
+    .post-template .post-header,
+    .page-template .post-header {
+        margin-bottom: 2rem;
+    }
+}
