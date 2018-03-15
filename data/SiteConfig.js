@@ -11,7 +11,7 @@ module.exports = {
   siteDescription:
     "Le Choix de l'abstinence", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://imageshack.com/a/img924/1038/dr5b19.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://imageshack.com/a/img924/8573/MdhM1V.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Delphine", // The author name used in the RSS file
@@ -24,7 +24,7 @@ module.exports = {
     "https://twitter.com/_SexNihilo",
     "mailto:sexnihilo1@gmail.com"
   ],
-  postDefaultCategoryID: "Tech", // Default category for posts.
+  postDefaultCategoryID: "", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
     {
