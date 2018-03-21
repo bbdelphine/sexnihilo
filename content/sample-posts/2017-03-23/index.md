@@ -6,7 +6,7 @@ category: "abstinence"
 tags:
     - abstinence;
 ---
-##Illustrations par Elsa Klée
+#Illustrations par Elsa Klée
 
 ##Pour se reconstruire, Gwendoline a choisi l’abstinence. Agressée sexuellement à de multiples reprises, cette jeune parisienne de 24 ans a besoin de temps pour avoir de nouveaux rapports sans penser à ses traumatismes passés.
 
