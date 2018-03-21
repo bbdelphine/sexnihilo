@@ -1,6 +1,6 @@
 ---
 title: "Même seule, je suis mal accompagnée"
-cover: "https://imageshack.com/a/img922/4636/k2eKs1.jpg"
+cover: "https://imagizer.imageshack.com/a/img922/4636/k2eKs1.jpg"
 date: "2017-03-23"
 category: "abstinence"
 tags:
@@ -15,7 +15,7 @@ Par trois fois, Gwendoline a subi viols et agressions sexuelles. Au sein de sa p
 Lorsqu’elle se lance et décide d’aller plus loin avec son amoureux Grégoire, cela fait quatre ans que Gwendoline se prive de relations intimes. Elle réessaie avec lui. C’est le choc, elle reprend conscience du poids de ses traumas et qu’encore aujourd’hui « chaque rapport [la] ramène à ça ». De cette dernière étreinte, elle se rappelle avoir « serré les dents » et eu « l’impression d’être un bout de bois qui se laissait faire ». « J’ai pleuré discrètement tout le long, c’était horrible », résume-t-elle la tête baissée. Dans son propre lit, la jeune femme se débat tant bien que mal contre les flashbacks. La douleur encore à vif, Gwendoline juge tout bonnement impossible d’expliquer sa « peur viscérale ». Elle ne lui révèle pas que cette appréhension lui vient d’agressions sexuelles et viol passés qui ont « ruiné [s]a vie sexuelle ». L’étudiante en administration économique et sociale est pétillante et dotée d’un caractère bien trempé. Elle choisit pourtant de se taire. Par crainte que ce dernier « flippe » face à tant d’informations « intimes et tabous », elle met fin à la relation sans lui dire un mot des vraies raisons de leur rupture. Alors elle prend une décision drastique : plus de sexe. Pas même un flirt. Il est trop tôt.  
 
 
-![alt text](https://imageshack.com/a/img923/5594/PzX1vo.jpg "Je suis une imageeeeee")
+![alt text](https://imagizer.imageshack.us/a/img923/5594/PzX1vo.jpg "Je suis une imageeeeee")
 
 Super video :
 `youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
@@ -29,7 +29,7 @@ Les premiers démons à vaincre datent d’un été dans la maison de vacances f
 ###*« Triple claque»*
 Paralysée par une crise d’angoisse, elle a l’impression de « quitter son corps » après être parvenue à déverrouiller la chambre du chalet. Cette troisième agression a l’effet d’une bombe à retardement. Gwendoline vrille. « Le corps a cette incroyable capacité à oublier les épisodes trop douloureux », remarque la jeune femme. Pas indéfiniment. Elle se souvient, alors assise sur son lit d’adolescente, avoir pris une « triple claque ». Une pour ces attouchements sur son corps d’enfant. Une pour ce rapport non consenti près du feu de camp. Une pour cette intrusion dans son dortoir dans les montagnes de Vars. « J’ai 16 ans, j’ai été victime d’inceste, de viol et d’agression sexuelle », se répète-t-elle pour tenter d’assimiler cette information. Dès lors, impossible de chasser de son esprit l’idée qu’elle est une « meuf dégoûtante, qui s’est faite violer ». Sur les conseils de son père, elle se rend à reculons dans le cabinet d’une psychothérapeute. Dans « l’incompréhension » de la douleur qu’elle tente d’enfouir, ces consultations sont une véritable corvée pour elle. L’adolescente ne fait preuve d’aucune coopération avec la praticienne.
 
-![alt text](https://imageshack.com/a/img924/2591/EI2GAh.jpg "La triple claque")
+![alt text](https://imagizer.imageshack.com/a/img924/2591/EI2GAh.jpg "La triple claque")
 
 De ses plus lointains désirs sexuels d’adolescentes, la jeune étudiante se rappelle être attirée par les rapports doux, ponctués de caresses : en bref, « consentis, respectueux, mais très sensuels ». Elle concède une part de naïveté quand elle y voit un moment de partage « intime et profond ». Chacune des agressions a néanmoins participé à s’emparer de son inconscient pour « ruiner complètement [s]a vision d’[elle]-même et du sexe ». La lycéenne d’alors ne ressent pas le besoin impératif d’être amoureuse pour régulièrement faire l’amour avec un de ses amis proches. A son arrivée à l’université, le sexe devient un acte des plus insignifiants : elle est convaincue que son corps n’a « plus aucune valeur ». Pendant de longs mois, Gwendoline s’autodétruit à petit feu, comme un bras d’honneur au passé. Elle multiplie les « plans culs à la con » et autres aventures sans lendemain. Très vite, l’étudiante en vient à se considérer elle-même comme un « objet destiné à donner du plaisir ».
 
