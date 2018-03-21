@@ -1,12 +1,12 @@
 ---
-title: Gwendoline, 24 ans et abstinente: "Même seule, je suis mal accompagnée"
+title: "Même seule, je suis mal accompagnée"
 cover: "https://imagizer.imageshack.com/a/img922/4636/k2eKs1.jpg"
 date: "2017-03-23"
 category: "abstinence"
 tags:
     - abstinence;
 ---
-###Illustrations par Elsa Klée
+*Illustrations par Elsa Klée*
 
 ##Pour se reconstruire, Gwendoline a choisi l’abstinence. Agressée sexuellement à de multiples reprises, cette jeune parisienne de 24 ans a besoin de temps pour avoir de nouveaux rapports sans penser à ses traumatismes passés.
 
