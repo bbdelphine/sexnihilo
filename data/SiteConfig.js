@@ -1,17 +1,17 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
-  blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
+  blogAuthorId: "delphine", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Sex Nihilo", // Site title.
   siteTitleAlt: "Le Choix de l'abstinence", // Alternative site title for SEO.
   siteLogo:
-    "https://imageshack.com/a/img922/281/OUzMPJ.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+    "https://imageshack.com/a/img923/9859/uHEADP.jpg", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Le Choix de l'abstinence", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://imageshack.com/a/img924/8573/MdhM1V.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://imageshack.com/a/img923/6966/panUxE.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Delphine", // The author name used in the RSS file
