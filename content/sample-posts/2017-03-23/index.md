@@ -1,5 +1,5 @@
 ---
-title: "Même seule, je suis mal accompagnée"
+title: Gwendoline, 24 ans et abstinente: "Même seule, je suis mal accompagnée"
 cover: "https://imagizer.imageshack.com/a/img922/4636/k2eKs1.jpg"
 date: "2017-03-23"
 category: "abstinence"
