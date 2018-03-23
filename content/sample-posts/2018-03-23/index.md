@@ -8,7 +8,7 @@ tags:
     - abstinence
     - huge
 ---
-####A 28 ans, Victoire n’a pas fait l’amour depuis sept ans. Pour cette artiste peintre, l’abstinence peut mener à un sentiment d’exclusion dans une société qu’elle juge hyper-sexualisée.
+####Voici 7 ans qu A 28 ans, Victoire n’a pas fait l’amour depuis sept ans. Pour cette artiste peintre, l’abstinence peut mener à un sentiment d’exclusion dans une société qu’elle juge hyper-sexualisée.
 
 *« Tire un coup, ça te fera du bien »* : À chaque baisse de régime ou de moral, on ressort à Victoire la même rengaine. Ça l’agace. Cette artiste peintre toulousaine de 28 ans n’a pas fait l’amour depuis sept ans, et elle s’en porte très bien. *« C’est dingue que j’aie à me justifier et à prouver que je ne suis pas malheureuse parce que je ne couche pas »*, rage-t-elle. De nature enjouée, elle respire plutôt le bonheur et la confiance en elle. Dans la société qui, selon elle, érige le sexe en roi, elle rejette en bloc les injonctions au plaisir à deux ou plus : c’est elle qui décide. La première personne à rendre heureuse, c’est elle, *« quitte à être un peu tyrannique »* avec les femmes qui l’approchent.
 
