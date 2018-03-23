@@ -1,13 +1,12 @@
 {
   "id": "delphine",
-  "name": "Guinevere Kuiper",
-  "image": "https://randomuser.me/api/portraits/women/17.jpg",
-  "url": "https://randomuser.me/api/?seed=user1",
-  "location": "Simpelveld, Groningen",
-  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet lorem nec ligula aliquet, porta blandit augue luctus. Vivamus ac quam diam. Sed vestibulum pharetra hendrerit.",
+  "name": "Delphine Bernard-Bruls ",
+  "image": "https://imagizer.imageshack.com/a/img922/5920/qQwrMl.jpg",
+  "url": "https://sexnihilo.netlify.com",
+  "location": "Paris",
+  "bio": "Promotion 71 du CFJ, spécialité Presse écrite et connectée",
   "socialUrls": [
-   "https://github.com/gatsbyjs",
-   "https://twitter.com/gatsbyjs",
-   "mailto:gatsbyjs@example.com"
+   "https://twitter.com/DD_Bruls",
+   "mailto:sexnihilo1@gmail.com"
  ]
 }
