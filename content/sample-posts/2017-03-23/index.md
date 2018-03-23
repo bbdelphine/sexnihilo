@@ -3,6 +3,7 @@ title: "Gwendoline, 24 ans et abstinente: « Même seule, je suis mal accompagn�
 cover: "https://imagizer.imageshack.com/a/img922/4636/k2eKs1.jpg"
 date: "2017-03-23"
 category: "abstinence"
+author: "delphine"
 tags:
     - abstinence;
 ---

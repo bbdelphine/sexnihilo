@@ -3,7 +3,8 @@ title: "« Ma priorité, c'est moi »"
 cover: "https://imagizer.imageshack.com/a/img924/9997/6T7hYd.jpg"
 category: "témoignage"
 date: "2018-03-27"
-slug: ""
+author: "delphine"
+slug: "essai"
 tags:
     - abstinence
     - huge
