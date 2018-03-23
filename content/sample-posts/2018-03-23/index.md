@@ -10,7 +10,6 @@ tags:
     - huge
 ---
 
-*Illustrations par Elsa Klée*
 
 ####A 28 ans, Victoire n’a pas fait l’amour depuis sept ans. Pour cette artiste peintre, l’abstinence peut mener à un sentiment d’exclusion dans une société qu’elle juge hyper-sexualisée.
 
@@ -43,3 +42,5 @@ Pour certains de ses copains, elles étaient tout simplement les meilleures amie
 ![alt text](https://imagizer.imageshack.com/a/img922/540/YykR8x.png)
 
 Lorsqu’il s’agit de son corps, Victoire devient très pudique. Elle raconte son habitude de garder le silence lorsque les conversations entre amies atterrissent sur le thème du sexe et des préférences de chacune. *« C’est souvent le cas »*, souligne-t-elle. Passive, elle raconte trouver ces moments particulièrement gênants. Elle ne se prête pas au jeu et envoie balader cette manie qu’elles ont de raconter leurs ébats à qui veut l’entendre. *« Ça ne les regarde pas, je ne vais pas leur faire un rapport détaillé de mes rapports »*, plaisante-t-elle. A demi-mot, la petite brune coiffée à la garçonne glisse qu’elle peut parfaitement se satisfaire sans personne. Une fois n’est pas coutume, il y a quelques mois, attablée avec ses amies, elle se prend à leur avouer que dans ses relations passées, *«  j’ai une tendance à être un peu macho, dominante »*. Encore surprise par le raccourci, elle se rappelle que ses dernières *« ont immédiatement pensé que je parlais de sexe, alors que non : je disais simplement que j’aimais me sentir protectrice de quelqu’un »*. Elle cite William Shakespeare dans un éclat de rire insouciant: *« Mieux vaut mourir incompris que passer sa vie à s’expliquer »*
+
+*Illustrations par Elsa Klée*
