@@ -1,6 +1,6 @@
 ---
 title: "« Même seule, je suis mal accompagnée »"
-cover: "https://imagizer.imageshack.com/a/img922/4636/k2eKs1.jpg"
+cover: "https://imagizer.imageshack.com/a/img924/2950/gKxjhn.jpg"
 date: "2017-03-23"
 category: "abstinence"
 author: "delphine"
@@ -20,7 +20,7 @@ Gwendoline a subi trois viols et agressions sexuelles. Au sein de sa propre fami
 
 Sa dernière relation sexuelle avec Grégoire est consentie mais elle se souvient s’être *« sentie violée à nouveau »*. *« J’aurais dû écouter mon corps, comprendre qu’il n’était pas prêt »*, se justifie-t-elle. La nuit en question remonte à décembre 2016. Elle tremble comme si elle y était encore. Allongée sur son lit, elle le laisse faire, de peur de le vexer. Après tout, ce garçon est profondément gentil, il l’a mise en confiance tout au long de leur relation. Surtout, lui ignore tout de ses traumatismes passés.
 
-![alt text](https://imagizer.imageshack.us/a/img923/5594/PzX1vo.jpg "Gwendoline")
+![alt text](https://imagizer.imageshack.com/a/img923/1803/qGjI8q.png "Gwendoline")
 *Gwendoline veut réparer les dégâts émotionnels du passé. Sa solution: l'abstinence.*
 
 ###Interdiction *« de lui donner du plaisir »*
