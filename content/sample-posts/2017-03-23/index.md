@@ -47,8 +47,3 @@ Il faudra attendre la troisième et dernière agression pour que Gwendoline pren
 Face au constat de sa *« vie sexuelle en lambeaux »*, Gwendoline veut *« réhabiliter le sexe »*. Dans son vocabulaire de la sexualité, on ne trouve pas les mots les plus attendus attendus : jouissance, abandon de soi ou exploration. Elle ne parvient à y mettre autre chose que *« l’angoisse, la culpabilité et la honte »*. Presque résignée, elle admet à demi-mots avoir renoncé à l’idée d’explorer sa sexualité et les pratiques dont elle entend parler *« au détour de toutes les conversations »* avec ses amis qui ignorent tout de son passé traumatique. Dans ces moments, la jeune abstinente se sent mal à l’aise. Sans être *« fleur bleue »*, elle n’attend que de rencontrer l’homme qui la traitera avec respect et d’attention. L’avenir n’effacera pas ces traumas qui l’ont forgée. Mais si un homme venait à partager sa vie et son lit, elle prédit qu’il devrait faire preuve de force patience et douceur pour *« compenser »* cette difficulté à accorder sa confiance,. Mais pour le moment, elle n’en est pas là. Ce sera pour plus tard. *« Quand je serai prête »*.
 
 *Les prénoms ont été modifiés*
-
-
-
-Super video :
-`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
